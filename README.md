@@ -20,13 +20,12 @@
 - /api/bookings
 
 ## 📷 Screenshots
-(Will be added soon)
+
+![Get Doctors](get-doctors.png)
+![Post Login](post-login.png)
+![Post Booking](post-booking.png)
+![Get Booking](get-booking.png)
+![Delete Booking](delete-booking.png)
 
 ## 💡 Description
 This project demonstrates a complete backend system for managing clinic bookings.
-
-## 📷 Screenshots
-
-![Doctors](swagger-doctors.png)
-![Login](swagger-login.png)
-![Bookings](swagger-bookings.png)
