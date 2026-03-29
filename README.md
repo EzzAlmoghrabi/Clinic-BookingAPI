@@ -24,3 +24,9 @@
 
 ## 💡 Description
 This project demonstrates a complete backend system for managing clinic bookings.
+
+## 📷 Screenshots
+
+![Doctors](swagger-doctors.png)
+![Login](swagger-login.png)
+![Bookings](swagger-bookings.png)
